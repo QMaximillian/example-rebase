@@ -12,4 +12,7 @@ function playSong() {
   console.log("song not playing");
   console.log("song paused");
   console.log("song playing");
+  console.log("song splaying");
+  console.log("song claying");
+  console.log("song graying");
 }

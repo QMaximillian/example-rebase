@@ -10,4 +10,5 @@ http
 
 function playSong() {
   console.log("song not playing");
+  console.log("song paused");
 }

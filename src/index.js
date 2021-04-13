@@ -17,4 +17,6 @@ function playSong() {
   console.log("song graying");
   console.log("song graying");
   console.log("song graying");
+  console.log("song graying");
+  console.log("song graying");
 }

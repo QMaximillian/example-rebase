@@ -15,4 +15,6 @@ function playSong() {
   console.log("song splaying");
   console.log("song claying");
   console.log("song graying");
+  console.log("song graying");
+  console.log("song graying");
 }
